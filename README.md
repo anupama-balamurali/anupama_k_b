@@ -16,19 +16,36 @@
 </p>
 
 ---
+# 💫 About Me
 
-# 💻 About Me
+<img align="right" alt="Coding" width="320" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
 
-```javascript
-const anupama = {
-  name: "Anupama K B",
-  role: "Software Developer",
-  education: "MCA Graduate",
-  techStack: ["Python","JavaScript","Flutter","Node.js","Express","MySQL","MongoDB","AWS"],
-  learning: ["System Design","Cloud Computing"],
-  goal: "Build impactful real-world applications"
-}
-```
+### 👩‍💻 Software Developer
+
+- 🎓 MCA Graduate
+- 💼 Passionate Software Developer
+- 🌱 Currently learning *System Design, AWS Cloud & Advanced Backend Development*
+- 🚀 Interested in building scalable web and mobile applications
+- 💡 Strong interest in solving real-world problems using technology
+- 🤝 Open to Software Developer and System engineer opportunities
+- ⚡ Always learning something new every day
+
+---
+
+### 🎯 Quick Facts
+
+| 🚀 | Details |
+|:---|:--------|
+| 👩 Name | *Anupama K B* |
+| 💼 Role | Software Developer |
+| 🎓 Degree | MCA Graduate |
+| 🌍 Location | Kerala, India |
+| 💻 Languages | Python, JavaScript |
+| ⚙️ Backend | Node.js, Express |
+| 📱 Mobile | React Native |
+| 🗄️ Database | MySQL, MongoDB |
+| ☁️ Cloud | AWS |
+| 🎯 Goal | Build impactful software that solves real-world problems |
 
 ## 🛠 Tech Stack
 
@@ -48,32 +65,51 @@ const anupama = {
 - 🤖 AI Primer – Infosys Springboard
 - 📈 Agile Project Management – HP LIFE
 
-## 🚀 Featured Projects
+# 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%">
 
 ### 💧 AquaQR
-QR-based Water Billing System using React Native, React.js, Node.js and MySQL.
+
+📱 *QR-Based Water Billing System*
+
+A full-stack water billing solution that simplifies meter reading and bill generation using QR code technology.
+
+*✨ Features*
+- QR Code based meter reading
+- Customer & Billing Management
+- Payment History
+- Admin Dashboard
+- Secure Authentication
+
+*🛠️ Tech Stack*
+React Native • React.js • Node.js • Express • MySQL
+
+</td>
+
+<td width="50%">
 
 ### 🛕 TempVia
-Temple Management & Astrology platform using Flutter, Node.js, Express and MongoDB.
 
-## 📊 GitHub Stats
+📿 *Temple Management & Astrology Platform*
 
-<p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=anupama_k_b&show_icons=true&theme=tokyonight&hide_border=true"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anupama_k_b&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
+A modern platform offering temple services and personalized astrology consultations.
 
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=anupama_k_b&theme=tokyonight&hide_border=true"/>
-</p>
+*✨ Features*
+- User Authentication
+- Astrologer Booking
+- Daily Horoscope
+- Secure Payments
+- Admin Management
 
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=anupama_k_b&theme=tokyonight&no-frame=true&row=1&column=7"/>
-</p>
+*🛠️ Tech Stack*
+Flutter • Node.js • Express • MongoDB
 
-## 📈 Contribution Graph
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=anupama_k_b&theme=tokyo-night"/>
+</td>
+</tr>
+</table>
 
 ## 🐍 Contribution Snake
 
@@ -92,7 +128,11 @@ Temple Management & Astrology platform using Flutter, Node.js, Express and Mongo
 - 📧 balamuralianupama@gmail.com
 - 💼 https://www.linkedin.com/in/anupama-k-b-asiet/
 - 💻 https://github.com/anupama-balamurali
+  
+<p align="center">
+<i>"First, solve the problem. Then, write the code."</i> 💜
+</p>
 
-> "Code is like humor. When you have to explain it, it's bad." — Cory House
+---
 
-⭐ Thanks for visiting my profile!
+<h3 align="center">⭐ Thanks for visiting my profile! ⭐</h3>
