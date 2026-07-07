@@ -2,7 +2,7 @@
 <h3 align="center">MCA Graduate | Software developer | Passionate Learner</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;React+%7C+Node.js+%7C+MongoDB;Always+Learning+New+Technologies" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Software+Developer;Python+%7C+Node.js+%7C+MongoDB+%7C+SQL;Always+Learning+New+Technologies" />
 </p>
 
 <p align="center">
@@ -24,7 +24,7 @@
 ## 🚀 Tech Stack
 
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,mysql,git,github,docker,vscode,figma,postman" />
+<img src="https://skillicons.dev/icons?i=html,css,js,reactnative,nodejs,express,mongodb,mysql,git,github,docker,figma,postman" />
 </p>
 
 ---
@@ -42,15 +42,15 @@ Temple Management & Astrology Application using Flutter, Node.js, Express & Mong
 ## 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api?username=anupama-balamurali&show_icons=true&theme=tokyonight"/>
 </p>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=anupama-balamurali&theme=tokyonight"/>
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anupama-balamurali&layout=compact&theme=tokyonight"/>
 </p>
 
 ---
@@ -58,7 +58,7 @@ Temple Management & Astrology Application using Flutter, Node.js, Express & Mong
 ## 🏆 GitHub Trophies
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=algolia&margin-w=15"/>
+<img src="https://github-profile-trophy.vercel.app/?username=anupama-balamurali&theme=algolia&margin-w=15"/>
 </p>
 
 ---
