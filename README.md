@@ -19,8 +19,7 @@
 ---
 # 💫 About Me
 
-<img align="right" alt="Coding" width="350" src="https://user-images.githubusercontent.com/74038190/212897782-965815b0-55b4-4c0f-8f43-2c9c7e2b84b5.gif">
-### 👩‍💻 Software Developer
+<img align="right" alt="Coding" width="350" src="https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif">
 
 - 🎓 MCA Graduate
 - 💼 Passionate Software Developer
