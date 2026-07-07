@@ -19,7 +19,7 @@
 ---
 # 💫 About Me
 <img align="right" alt="Coding Girl" width="350"
-src="https://user-images.githubusercontent.com/74038190/212897782-965815b0-55b4-4c0f-8f43-2c9c7e2b84b5.gif">
+src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzV1cDNqZWFhN2R1MmVsMDZudHN1NXl5aHRlYmg5NnljOXN3Njd0MSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/L1R1tvI9svkIWwpVYr/giphy.gif">
 ### 👩‍💻 Software Developer
 
 - 🎓 MCA Graduate
