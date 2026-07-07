@@ -3,7 +3,7 @@
 
 <h3 align="center">Software Developer | MCA Graduate | Passionate Learner</h3>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3500&pause=1000&color=8A2BE2&center=true&vCenter=true&width=650&lines=Software+Developer;Full+Stack+Developer;Always+Learning+New+Technologies;Open+to+Work"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3500&pause=1000&color=8A2BE2&center=true&vCenter=true&width=650&lines=Software+Developer;Always+Learning+New+Technologies;Open+to+Work"/>
 </p>
 
 <p align="center">
