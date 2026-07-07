@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20Gestures/Waving%20Hand.png" width="80"/>
-</p>
 
 <h1 align="center">Hi, I'm Anupama K B 👋</h1>
 
