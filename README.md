@@ -1,11 +1,8 @@
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="40"/> Hi, I'm Anupama K B
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="100"/> Hi, I'm Anupama K B
 
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=8A2BE2&center=true&vCenter=true&width=700&lines=MCA+Graduate;Software+Developer;Always+Learning+New+Technologies" />
 </p>
-
-### Software Developer | MCA graduate | Passionate Learner
-
 > *Building scalable applications and continuously learning.*
 
 <p align="left">
