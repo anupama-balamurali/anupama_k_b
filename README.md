@@ -1,4 +1,4 @@
-# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20Gestures/Waving%20Hand.png" width="40"/> Hi, I'm Anupama K B
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="40"/> Hi, I'm Anupama K B
 
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=8A2BE2&center=true&vCenter=true&width=700&lines=MCA+Graduate;Software+Developer;Full+Stack+Developer;Always+Learning+New+Technologies" />
@@ -59,30 +59,26 @@ Temple Management & Astrology platform using Flutter, Node.js, Express and Mongo
 ## 📊 GitHub Stats
 
 <p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=anupama-balamurali&show_icons=true&theme=tokyonight&hide_border=true"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anupama-balamurali&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=anupama_k_b&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anupama_k_b&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=anupama-balamurali&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=anupama_k_b&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=anupama-balamurali&theme=tokyonight&no-frame=true&row=1&column=7"/>
+<img src="https://github-profile-trophy.vercel.app/?username=anupama_k_b&theme=tokyonight&no-frame=true&row=1&column=7"/>
 </p>
 
 ## 📈 Contribution Graph
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=anupama-balamurali&theme=tokyo-night"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=anupama_k_b&theme=tokyo-night"/>
 
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/anupama-balamurali/anupama_k_b/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/anupama-balamurali/anupama_k_b/output/github-contribution-grid-snake.svg">
-    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/anupama-balamurali/anupama_k_b/output/github-contribution-grid-snake.svg">
-  </picture>
+<img src="https://raw.githubusercontent.com/anupama-balamurali/anupama_k_b/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
 </p>
 
 ## 🌱 Currently Learning
