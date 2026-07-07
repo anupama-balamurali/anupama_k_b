@@ -19,7 +19,7 @@
 ---
 # 💫 About Me
 
-<img align="right" alt="Coding" width="350" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
+<img align="right" alt="Coding" width="340" src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif"/>
 - 🎓 MCA Graduate
 - 💼 Passionate Software Developer
 - 🌱 Currently learning *System Design, AWS Cloud & Advanced Backend Development*
