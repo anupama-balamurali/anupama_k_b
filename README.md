@@ -1,12 +1,19 @@
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="100"/> Hi, I'm Anupama K B
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20Gestures/Waving%20Hand.png" width="80"/>
+</p>
+
+<h1 align="center">Hi, I'm Anupama K B 👋</h1>
+
+<h3 align="center">Software Developer | MCA Graduate | Passionate Learner</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3500&pause=1000&color=8A2BE2&center=true&vCenter=true&width=650&lines=Software+Developer;Full+Stack+Developer;Always+Learning+New+Technologies;Open+to+Work"/>
+</p>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=8A2BE2&center=true&vCenter=true&width=700&lines=MCA+Graduate;Software+Developer;Always+Learning+New+Technologies" />
+<i>Building scalable applications and continuously learning.</i>
 </p>
-> *Building scalable applications and continuously learning.*
 
 <p align="left">
-<img src="https://komarev.com/ghpvc/?username=anupama_k_b&label=Profile%20Views&color=7B1FA2&style=for-the-badge"/>
 <a href="mailto:balamuralianupama@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/anupama-k-b-asiet/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://github.com/anupama-balamurali"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
