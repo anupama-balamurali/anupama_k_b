@@ -9,7 +9,7 @@
 > *Building scalable applications and continuously learning.*
 
 <p align="left">
-<img src="https://komarev.com/ghpvc/?username=anupama-balamurali&label=Profile%20Views&color=7B1FA2&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=anupama_k_b&label=Profile%20Views&color=7B1FA2&style=for-the-badge"/>
 <a href="mailto:balamuralianupama@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/anupama-k-b-asiet/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://github.com/anupama-balamurali"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
@@ -77,11 +77,13 @@ Temple Management & Astrology platform using Flutter, Node.js, Express and Mongo
 
 ## 🐍 Contribution Snake
 
-> Enable GitHub Actions and generate the snake SVG before using.
-
-```md
-![Snake animation](https://github.com/anupama-balamurali/anupama-balamurali/blob/output/github-contribution-grid-snake.svg)
-```
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/anupama-balamurali/anupama_k_b/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/anupama-balamurali/anupama_k_b/output/github-contribution-grid-snake.svg">
+    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/anupama-balamurali/anupama_k_b/output/github-contribution-grid-snake.svg">
+  </picture>
+</p>
 
 ## 🌱 Currently Learning
 
