@@ -19,7 +19,9 @@
 ---
 # 💫 About Me
 
-<img align="right" alt="Coding" width="320" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
+<p align="center">
+  <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="600">
+</p>
 
 ### 👩‍💻 Software Developer
 
