@@ -18,8 +18,8 @@
 
 ---
 # 💫 About Me
-<img align="right" alt="Coding" width="350" src="https://media.tenor.com/GVk4jB2x2tQAAAAC/coding-anime.gif"/>
-
+<img align="right" alt="Coding Girl" width="350"
+src="https://user-images.githubusercontent.com/74038190/212897782-965815b0-55b4-4c0f-8f43-2c9c7e2b84b5.gif">
 ### 👩‍💻 Software Developer
 
 - 🎓 MCA Graduate
