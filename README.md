@@ -18,8 +18,10 @@
 
 ---
 # 💫 About Me
+<img align="right" alt="Coding" width="350" src="https://media.tenor.com/GVk4jB2x2tQAAAAC/coding-anime.gif"/>
 
-<img align="right" alt="Coding" width="340" src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif"/>
+### 👩‍💻 Software Developer
+
 - 🎓 MCA Graduate
 - 💼 Passionate Software Developer
 - 🌱 Currently learning *System Design, AWS Cloud & Advanced Backend Development*
